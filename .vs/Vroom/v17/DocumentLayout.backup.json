@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\controllers\\rentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\controllers\\rentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\services\\rentersservice\\renterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\services\\rentersservice\\renterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\services\\validators\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\services\\validators\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\services\\validators\\reservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\services\\validators\\reservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\services\\validators\\rentervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\services\\validators\\rentervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\repositories\\rentersrepository\\renterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\repositories\\rentersrepository\\renterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\repositories\\rentersrepository\\irenterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\repositories\\rentersrepository\\irenterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\services\\rentersservice\\irenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\services\\rentersservice\\irenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\services\\rentersservice\\rentersdto\\renterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\services\\rentersservice\\rentersdto\\renterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\services\\rentersservice\\rentersdto\\rentercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\services\\rentersservice\\rentersdto\\rentercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\repositories\\repositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\repositories\\repositoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\data\\vroomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\data\\vroomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\models\\renters\\renter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\models\\renters\\renter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\services\\rentersservice\\rentersdto\\renterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\services\\rentersservice\\rentersdto\\renterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\models\\reservation\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\models\\reservation\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\models\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\models\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216215912_InitializeMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VroomAPI\\Migrations\\20241216215912_InitializeMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216214634_InitializeMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VroomAPI\\Migrations\\20241216214634_InitializeMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216213321_InitializeMigrationVroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VroomAPI\\Migrations\\20241216213321_InitializeMigrationVroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212938_InitializeMigrationVroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VroomAPI\\Migrations\\20241216212938_InitializeMigrationVroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212522_InitializeMigrationVroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VroomAPI\\Migrations\\20241216212522_InitializeMigrationVroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212430_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VroomAPI\\Migrations\\20241216212430_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|c:\\users\\danii\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vroom\\vroomapi\\migrations\\20241217204238_vroominitializedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2177BB3-5F7D-4BBA-BE86-1843D86F69A6}|VroomAPI\\VroomAPI.csproj|solutionrelative:vroomapi\\migrations\\20241217204238_vroominitializedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RenterController.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Controllers\\RenterController.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Controllers\\RenterController.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Controllers\\RenterController.cs*",
+              "RelativeToolTip": "VroomAPI\\Controllers\\RenterController.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowEAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:05:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\Validators\\ReservationValidator.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Services\\Validators\\ReservationValidator.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\Validators\\ReservationValidator.cs",
+              "RelativeToolTip": "VroomAPI\\Services\\Validators\\ReservationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:37:25.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RenterService.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\RenterService.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Services\\RentersService\\RenterService.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\RenterService.cs*",
+              "RelativeToolTip": "VroomAPI\\Services\\RentersService\\RenterService.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:24:57.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRenterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Repositories\\RentersRepository\\IRenterRepository.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Repositories\\RentersRepository\\IRenterRepository.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Repositories\\RentersRepository\\IRenterRepository.cs",
+              "RelativeToolTip": "VroomAPI\\Repositories\\RentersRepository\\IRenterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:33:23.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RenterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Repositories\\RentersRepository\\RenterRepository.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Repositories\\RentersRepository\\RenterRepository.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Repositories\\RentersRepository\\RenterRepository.cs",
+              "RelativeToolTip": "VroomAPI\\Repositories\\RentersRepository\\RenterRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwGoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:38:04.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RenterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\Validators\\RenterValidator.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Services\\Validators\\RenterValidator.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\Validators\\RenterValidator.cs",
+              "RelativeToolTip": "VroomAPI\\Services\\Validators\\RenterValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:31:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\Validators\\CarValidator.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Services\\Validators\\CarValidator.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\Validators\\CarValidator.cs",
+              "RelativeToolTip": "VroomAPI\\Services\\Validators\\CarValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:37:15.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Program.cs",
+              "RelativeToolTip": "VroomAPI\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:32:52.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RenterUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\RentersDTO\\RenterUpdateDTO.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Services\\RentersService\\RentersDTO\\RenterUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\RentersDTO\\RenterUpdateDTO.cs",
+              "RelativeToolTip": "VroomAPI\\Services\\RentersService\\RentersDTO\\RenterUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:32:48.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryException.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Repositories\\RepositoryException.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Repositories\\RepositoryException.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Repositories\\RepositoryException.cs",
+              "RelativeToolTip": "VroomAPI\\Repositories\\RepositoryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:19:30.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RenterCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\RentersDTO\\RenterCreateDTO.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Services\\RentersService\\RentersDTO\\RenterCreateDTO.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\RentersDTO\\RenterCreateDTO.cs",
+              "RelativeToolTip": "VroomAPI\\Services\\RentersService\\RentersDTO\\RenterCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:32:42.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VroomDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Data\\VroomDbContext.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Data\\VroomDbContext.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Data\\VroomDbContext.cs",
+              "RelativeToolTip": "VroomAPI\\Data\\VroomDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:39:03.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRenterService.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\IRenterService.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Services\\RentersService\\IRenterService.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\IRenterService.cs",
+              "RelativeToolTip": "VroomAPI\\Services\\RentersService\\IRenterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:26:42.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Renter.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Models\\Renters\\Renter.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Models\\Renters\\Renter.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Models\\Renters\\Renter.cs",
+              "RelativeToolTip": "VroomAPI\\Models\\Renters\\Renter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:39:56.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RenterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\RentersDTO\\RenterDTO.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Services\\RentersService\\RentersDTO\\RenterDTO.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Services\\RentersService\\RentersDTO\\RenterDTO.cs",
+              "RelativeToolTip": "VroomAPI\\Services\\RentersService\\RentersDTO\\RenterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:30:52.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241217204238_VroomInitializeDB.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241217204238_VroomInitializeDB.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Migrations\\20241217204238_VroomInitializeDB.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241217204238_VroomInitializeDB.cs",
+              "RelativeToolTip": "VroomAPI\\Migrations\\20241217204238_VroomInitializeDB.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:42:39.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Models\\Reservation\\Reservation.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Models\\Reservation\\Reservation.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Models\\Reservation\\Reservation.cs",
+              "RelativeToolTip": "VroomAPI\\Models\\Reservation\\Reservation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:50:50.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Models\\Cars\\Car.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Models\\Cars\\Car.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Models\\Cars\\Car.cs",
+              "RelativeToolTip": "VroomAPI\\Models\\Cars\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:50:07.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VroomAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VroomAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T20:17:08.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VroomAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\appsettings.json",
+              "RelativeToolTip": "VroomAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T20:40:41.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241216215912_InitializeMigration.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216215912_InitializeMigration.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Migrations\\20241216215912_InitializeMigration.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216215912_InitializeMigration.cs",
+              "RelativeToolTip": "VroomAPI\\Migrations\\20241216215912_InitializeMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:59:13.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241216214634_InitializeMigration.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216214634_InitializeMigration.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Migrations\\20241216214634_InitializeMigration.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216214634_InitializeMigration.cs",
+              "RelativeToolTip": "VroomAPI\\Migrations\\20241216214634_InitializeMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:46:34.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241216213321_InitializeMigrationVroom.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216213321_InitializeMigrationVroom.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Migrations\\20241216213321_InitializeMigrationVroom.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216213321_InitializeMigrationVroom.cs",
+              "RelativeToolTip": "VroomAPI\\Migrations\\20241216213321_InitializeMigrationVroom.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:33:21.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241216212938_InitializeMigrationVroom.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212938_InitializeMigrationVroom.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Migrations\\20241216212938_InitializeMigrationVroom.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212938_InitializeMigrationVroom.cs",
+              "RelativeToolTip": "VroomAPI\\Migrations\\20241216212938_InitializeMigrationVroom.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:29:38.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241216212522_InitializeMigrationVroom.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212522_InitializeMigrationVroom.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Migrations\\20241216212522_InitializeMigrationVroom.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212522_InitializeMigrationVroom.cs",
+              "RelativeToolTip": "VroomAPI\\Migrations\\20241216212522_InitializeMigrationVroom.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:25:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241216212430_initial.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212430_initial.cs",
+              "RelativeDocumentMoniker": "VroomAPI\\Migrations\\20241216212430_initial.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Vroom\\VroomAPI\\Migrations\\20241216212430_initial.cs",
+              "RelativeToolTip": "VroomAPI\\Migrations\\20241216212430_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:24:31.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
