@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Vroom\\VroomAPI\\VroomAPI.csproj": {}
+    "C:\\Users\\danii\\OneDrive\\Рабочий стол\\VroomAPIWEB\\VroomAPI\\VroomAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Vroom\\VroomAPI\\VroomAPI.csproj": {
+    "C:\\Users\\danii\\OneDrive\\Рабочий стол\\VroomAPIWEB\\VroomAPI\\VroomAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Vroom\\VroomAPI\\VroomAPI.csproj",
+        "projectUniqueName": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\VroomAPIWEB\\VroomAPI\\VroomAPI.csproj",
         "projectName": "VroomAPI",
-        "projectPath": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Vroom\\VroomAPI\\VroomAPI.csproj",
+        "projectPath": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\VroomAPIWEB\\VroomAPI\\VroomAPI.csproj",
         "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Vroom\\VroomAPI\\obj\\",
+        "outputPath": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\VroomAPIWEB\\VroomAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

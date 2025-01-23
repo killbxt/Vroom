@@ -35,13 +35,24 @@ namespace VroomAPI
             //валидаторы
             builder.Services.AddValidatorsFromAssemblyContaining<RenterValidator>();
 
+            // Настройка CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("MyAllowSpecificOrigins",
+                    policyBuilder =>
+                    {
+                        policyBuilder.WithOrigins("https://192.168.1.42:7245", "http://localhost:5001", "https://localhost:7148")//Замените на ваш адрес
+                               .AllowAnyHeader()
+                               .AllowAnyMethod();
+                    });
+            });
 
-            
 
 
             var app = builder.Build();
+            app.UseRouting(); // Make sure this is before UseCors - помощь для него 
+            app.UseCors("MyAllowSpecificOrigins");  //  Включаем CORS - штука для разрешения и переадресаций как я понял
 
-            
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();

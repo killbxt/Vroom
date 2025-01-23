@@ -1,0 +1,138 @@
+﻿@page
+@model VroomWeb.Pages.RegistrationModel
+@{
+    ViewData["Title"] = "Регистрация";
+}
+
+<h2>Регистрация</h2>
+
+<form id="registrationForm">
+    <div class="mb-3">
+        <label for="firstName" class="form-label">Имя</label>
+        <input type="text" class="form-control" id="firstName" required>
+        <span id="firstNameError" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="middleName" class="form-label">Отчество</label>
+        <input type="text" class="form-control" id="middleName">
+        <span id="middleNameError" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="lastName" class="form-label">Фамилия</label>
+        <input type="text" class="form-control" id="lastName" required>
+        <span id="lastNameError" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="dateOfBirth" class="form-label">Дата рождения</label>
+        <input type="date" class="form-control" id="dateOfBirth" required>
+        <span id="dateOfBirthError" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="email" required>
+        <span id="emailError" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="phone" class="form-label">Телефон</label>
+        <input type="tel" class="form-control" id="phone" required>
+        <span id="phoneError" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="password" class="form-label">Пароль</label>
+        <input type="password" class="form-control" id="password" required>
+        <span id="passwordError" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="confirmPassword" class="form-label">Подтвердите пароль</label>
+        <input type="password" class="form-control" id="confirmPassword" required>
+        <span id="confirmPasswordError" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="hasDriverLicense">
+            <label class="form-check-label" for="hasDriverLicense">Есть водительское удостоверение</label>
+        </div>
+    </div>
+    <div class="mb-3" id="driverLicenseNumberDiv" style="display:none;">
+        <label for="driverLicenseNumber" class="form-label">Номер водительского удостоверения</label>
+        <input type="text" class="form-control" id="driverLicenseNumber" disabled>
+        <span id="driverLicenseNumberError" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Зарегистрироваться</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        window.onload = function () {
+            document.getElementById('hasDriverLicense').addEventListener('change', function () {
+                const driverLicenseDiv = document.getElementById('driverLicenseNumberDiv');
+                const driverLicenseInput = document.getElementById('driverLicenseNumber');
+
+                if (this.checked) {
+                    driverLicenseDiv.style.display = '';
+                    driverLicenseInput.disabled = false;
+                } else {
+                    driverLicenseDiv.style.display = 'none';
+                    driverLicenseInput.disabled = true;
+                }
+            });
+
+            document.getElementById('registrationForm').addEventListener('submit', async function (event) {
+                event.preventDefault();
+                const password = document.getElementById('password').value;
+                const confirmPassword = document.getElementById('confirmPassword').value;
+                const confirmPasswordError = document.getElementById('confirmPasswordError');
+
+                if (password !== confirmPassword) {
+                    confirmPasswordError.textContent = 'Пароли не совпадают';
+                    return;
+                } else {
+                    confirmPasswordError.textContent = '';
+                }
+
+                const formData = {
+                    firstName: document.getElementById('firstName').value,
+                    middleName: document.getElementById('middleName').value,
+                    lastName: document.getElementById('lastName').value,
+                    dateOfBirth: document.getElementById('dateOfBirth').value,
+                    email: document.getElementById('email').value,
+                    phone: document.getElementById('phone').value,
+                    password: document.getElementById('password').value,
+                    hasDriverLicence: document.getElementById('hasDriverLicense').checked,
+                    driverLicenseNumber: document.getElementById('driverLicenseNumber').value
+                };
+
+                try {
+                    const response = await fetch('https://192.168.1.42:7245/Vroom/Renter/Add', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'Accept': 'application/json'
+                        },
+                        body: JSON.stringify(formData)
+                    });
+
+                    if (response.ok) {
+                        window.location.href = '/RegistrationSuccess';
+                    } else {
+                        const errorData = await response.json();
+                        if (errorData) {
+                            Object.keys(errorData).forEach(key => {
+                                const errorSpan = document.getElementById(key + 'Error');
+                                if (errorSpan) {
+                                    errorSpan.textContent = errorData[key].join(', ');
+                                }
+                            });
+                        } else {
+                            alert('Произошла неизвестная ошибка.');
+                        }
+                    }
+                } catch (error) {
+                    console.error('Ошибка:', error);
+                    alert('Произошла ошибка при отправке запроса.');
+                }
+            });
+        };
+    </script>
+}

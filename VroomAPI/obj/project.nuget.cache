@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GIJIr3dx1KQ=",
+  "dgSpecHash": "ntFDtzlxyqs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Vroom\\VroomAPI\\VroomAPI.csproj",
+  "projectFilePath": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\VroomAPIWEB\\VroomAPI\\VroomAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danii\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
